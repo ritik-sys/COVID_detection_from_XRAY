@@ -1,6 +1,6 @@
 # Detection of COVID-19 from chest X-Ray ✨
 
-(https://raw.githubusercontent.com/Devforlife07/foodeazy/master/readme_images/login.png?token=ALT5AMAOLRKFR423UUHLK6C7KJJ4Y)
+![enter image description here](https://raw.githubusercontent.com/ritik-sys/COVID_detection_from_XRAY/main/img5.png)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://sars-covid19-xray-detection.herokuapp.com/)&nbsp;[![Build passing](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=flat-square)](https://sars-covid19-xray-detection.herokuapp.com/)&nbsp;[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://foodeazy.herokuapp.com/)&nbsp;[![License](https://img.shields.io/badge/license-MIT-brightgreen)](https://sars-covid19-xray-detection.herokuapp.com/)&nbsp;![Made with Love in India](https://madewithlove.org.in/badge.svg)
 
@@ -15,15 +15,19 @@ One of the critical factors behind the rapid spread of COVID-19 pandemic is a le
  - Although RT-PCR is the most widely used detection technology with COVID-19 detection, it still has some limitations.
  - High cost, being time-consuming, and having low sensitivity
 
- ## Screenshots
- ### UI/UX (https://raw.githubusercontent.com/Devforlife07/foodeazy/master/readme_images/login.png?token=ALT5AMAOLRKFR423UUHLK6C7KJJ4Y)
+
+ ## UI/UX
+ ### Screenshot-1![enter image description here](https://raw.githubusercontent.com/ritik-sys/COVID_detection_from_XRAY/main/img2.png)
+ ### Screenshot-2![enter image description here](https://raw.githubusercontent.com/ritik-sys/COVID_detection_from_XRAY/main/img3.png)
+ ### Screenshot-3![enter image description here](https://raw.githubusercontent.com/ritik-sys/COVID_detection_from_XRAY/main/img4.png)
+
 
 ## Tech Stack and Tools 💻
 
  - [Python]
  - [Google Colab]
  - [Anaconda]
- - [Flask
+ - [Flask]
  - [Keras]
 
 
