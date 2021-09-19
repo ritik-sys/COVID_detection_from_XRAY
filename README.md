@@ -17,6 +17,11 @@ One of the critical factors behind the rapid spread of COVID-19 pandemic is a le
  - High cost, being time-consuming, and having low sensitivity
 
 
+ ## Flowchart and Methodology
+ ### Flowchart![enter image description here](https://raw.githubusercontent.com/ritik-sys/COVID_detection_from_XRAY/main/img6.jpeg)
+ ### Methodology![enter image description here](https://raw.githubusercontent.com/ritik-sys/COVID_detection_from_XRAY/main/img7.png)
+
+
  ## UI/UX
  ### Screenshot-1![enter image description here](https://raw.githubusercontent.com/ritik-sys/COVID_detection_from_XRAY/main/img2.png)
  ### Screenshot-2![enter image description here](https://raw.githubusercontent.com/ritik-sys/COVID_detection_from_XRAY/main/img3.png)
